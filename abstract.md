@@ -1,9 +1,11 @@
 Problem Statement: 
-Analyzing the Impact of Occupation on Sleep Disorders Based on Lifestyle Factors.
+Analyzing the Impact of Occupation on Sleep Disorders Based on Lifestyle Factors. 
+
+Dataset:The dataset includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders.
 
 Approach: 
 1) Data Cleaning and Preparation: Python (Pandas - For data manipulation, and handling missing values, Numpy - For numerical operations and efficient data handling.)
-2) Data Analysis & Visualization: Power BI.
+2) Data Analysis & Visualization: Tableau.
 3) (If time permits) Building predictive model: Machine Learning Algorithms.
 
 Data Cleaning & Preparation: 
@@ -16,12 +18,4 @@ Data Cleaning & Preparation:
 
 5. Handling Outliers: We employed the Z-score method to detect them. According to this method, a data point is classified as an outlier if its Z-score falls outside the range of (-3) to (+3). Our analysis indicated that both the 'Age' and 'Number_of_Virtual_Meetings' columns do not exhibit significant bias.
 
-Key performance Indicators:
-1) Impact on mental health based on the mode of work.
-2) Work-life balance varies significantly based on the hours worked and virtual meetings attended 
-3) Visualization of Mental Health Conditions based on Region.
-4) What is the relation of stress levels on quality of sleep and productivity changes?
-5) How has remote work impacted productivity across different job roles and industries?
-6) Are employees experiencing higher levels of social isolation more likely to report lower satisfaction with remote work?
-7) What is the impact of physical activity on the mental health condition of remote workers?
 
